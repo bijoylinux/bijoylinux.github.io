@@ -5,13 +5,13 @@ highlighter:      rouge
 # Setup
 title:            Bijoy Linux
 tagline:          িবজয় হোক উন্মুক্ত
-description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
+description:      "লিনাক্সে আসার পরে বেশিরভাগ বাঙালীর অসুবিধা হয় বাংলা লেখা নিয়ে। যেহেতু বেশিরভাগই বিজয়ে অভ্যস্ত এবং বিজয়ের লিনাক্সের ডকুমন্টেশনের অবস্থা খুবই খারাপ তাই কিছু ইন্সটলারসহ অ্যাড করলাম। আশা করি নতুনদের কাজে লাগবে। "
 url:              https://github.com/bijoylinux/bijoy
 baseurl:
 
 author:
   name:           Mr. Bijoy
-  url:            https://twitter.com/karloespiritu
+  url:            #
 
 paginate:         5
 # paginate_path:    '/page:num'
